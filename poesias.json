@@ -467,5 +467,12 @@
         "poeta": "Mc Carol",
         "id": "d8vW3Z-NHlE",
         "start": 4
+    },
+    {
+        "estrofe": "testando",
+        "poesia": "Bate teste",
+        "poeta": "Mc Teste",
+        "id": "d8vW3Z-Nhlk",
+        "start": 1
     }
 ]
